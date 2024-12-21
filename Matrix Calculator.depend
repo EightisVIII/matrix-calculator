@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1734827676 source:c:\users\lenovo\documents\calculators\matrix calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<conio.h>
+

@@ -139,14 +139,14 @@ int main(){
               (userChoice == 3 && matrixChoice == 0)){
         repeatQues0 = false;
         if(userChoice == 4 || userChoice == 5){
-            printf("\t\t\t\t\t   ------ INPUT VALUES ------");
+            printf("\n\t\t\t\t\t   ------ INPUT VALUES ------");
             printf("\n\t\t\t\t\tHow many rows-by-columns(nxn)? ");
             decorBlue();
             scanf("%d", &row);
             resetColor();
             col = row;
         } else{
-            printf("\t\t\t\t\t   ------ INPUT VALUES ------");
+            printf("\n\t\t\t\t\t   ------ INPUT VALUES ------");
             printf("\n\t\t\t\t\t        How many rows? ");
             decorBlue();
             scanf("%d", &row);

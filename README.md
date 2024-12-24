@@ -5,6 +5,14 @@ Matrix Calculator is a console-based application that provides a variety of matr
 
 ---
 
+## Purpose of the Project
+This project was created as part of a practical exercise to:
+- Apply more fundamental concepts in C such as pointers and memory allocation.
+- Make it easier for those still studying matrices to calculate them with certainty.
+- Synthesize knowledge from my Computer Algebra class in honor of my algebra teacher, Melchor Espiritu.
+
+---
+
 ## Features
 - **Matrix Operations**:
   - Addition of matrices (single and multi-dimensional).
